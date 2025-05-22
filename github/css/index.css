@@ -1,12 +1,6 @@
 body{
     font-family: Arial, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image: url(../imagem/imagem\ \(1\).png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh;
+    background-color: black;
 }
 #teste{
     font-family: "Times New Roman";
@@ -15,21 +9,52 @@ body{
     text-align: justify;
     font-weight: bold;
     text-transform: uppercase;
+    color: white;
 }
 h1{
     color: bisque;
     text-align: center;
+    color: white;
 }
+
 h2{
     color: bisque;
     text-align: center;
     font-size: 32px;
     letter-spacing: 15px;
+    color: white;
 }
+
 p{
     font-family: "Times New Roman";
     font-size: 24px;
     text-indent: 50px;
     word-spacing: 10px;
     line-height: 25px;
+    color: white;
+}
+
+#id{
+    font-size: 10px;
+}
+#botao{
+    font-size: 19px;
+    background-color: blue;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    color: white;
+}
+#dados{
+    font-size: 24px;
+    word-spacing: 1px;
+    text-align: center;
+    background-color: black;
+}
+#formulario{
+    color: rgb(253, 144, 10);
+    margin-right: 70px;
+}
+#form{
+    font-family: "Times New Roman";
+    color: bisque;
 }
