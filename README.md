@@ -1,2 +1,1 @@
-PROJETO DE TESTE
-Feito com fins de aprendizado.
+Projeto de teste feito para fins de aprendzado.
